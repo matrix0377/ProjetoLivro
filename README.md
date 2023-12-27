@@ -3,7 +3,7 @@ Repositório para projeto de Programação Orientado a Objetos - Projeto Livro
 
 IDE: IntelliJ
 
-Aplicação de Conceitos:
+Aplicação de conceitos:
 - Programação Orientada a Objetos;
 - Pilar Abstração;
 - Pilar Encapsulamento;
