@@ -6,6 +6,6 @@ IDE: IntelliJ
 Aplicação de Conceitos:
 - Programação Orientada a Objetos;
 - Pilar Abstração;
-- Pilar encapsulamento;
+- Pilar Encapsulamento;
 - Relacionamenyo entre Classes;
 - Agregação entre Objetos com Java.
